@@ -1,0 +1,7 @@
+Definition Of done sprint 1:
+	Until the end of this sprint we should be able to implement connectivity to our live DB service(google firebase),
+	and also finish the data model implementation(classes), upload them into the non - relational database and implement the login functionality.
+Task needed to be done regarding environment setup:
+	We should import the libraries needed for access to Firebase, and everyone needs to get used to write implementations in C#.
+
+
