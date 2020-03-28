@@ -1,6 +1,0 @@
-UTILIZATORUL SA POATA AJUNGE DE LA LOGIN/REGISTER LA MAIN MENU SI SA POATA AJUNGE INTR-O CAMERA DE JOC
-
-	- Login / register functional
-	- Main menu cvasi-functional (macar cat ca utilizatorul sa poata ajunge intr-un joc, fie prin:)
-		- lobby (optimist)
-		- matchmaking direct (play -> ajunge in camera)
