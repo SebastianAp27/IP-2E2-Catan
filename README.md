@@ -1,3 +1,0 @@
-#Catan
-
-Proiect E2
