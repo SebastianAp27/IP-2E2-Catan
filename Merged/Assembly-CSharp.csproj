@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2ADC39E-BB54-1428-7A60-E0384F691E33}</ProjectGuid>
+    <ProjectGuid>{9C347987-D860-2B02-F59A-A2E81CDC95B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CreateAcoountScript.cs" />
+     <Compile Include="Assets\CreateAccountScript.cs" />
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\ConsoleBase.cs" />
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\LogView.cs" />
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\MenuBase.cs" />
@@ -67,25 +67,26 @@
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\MainMenu.cs" />
      <Compile Include="Assets\FacebookSDK\Examples\Scripts\SubMenus\Pay.cs" />
      <Compile Include="Assets\Loading1Script.cs" />
+     <Compile Include="Assets\LobbyListScript.cs" />
      <Compile Include="Assets\MainMenuScript.cs" />
      <Compile Include="Assets\SettingsMenu.cs" />
      <Compile Include="Assets\TemporaryScript.cs" />
      <Compile Include="Assets\WelcomeScript.cs" />
      <None Include="Assets\FacebookSDK\link.xml" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -289,22 +290,22 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity">
- <HintPath>C:/Users/Irina/Documents/Mashed/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Canvas">
- <HintPath>C:/Users/Irina/Documents/Mashed/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Gameroom">
- <HintPath>C:/Users/Irina/Documents/Mashed/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
  </Reference>
  <Reference Include="FacebookNamedPipeClient">
- <HintPath>C:/Users/Irina/Documents/Mashed/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Irina/Documents/Mashed/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Irina/Documents/Mashed/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Irina/Documents/Merged/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

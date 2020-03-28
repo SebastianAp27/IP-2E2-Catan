@@ -17,6 +17,6 @@ public class MainMenuScript : MonoBehaviour
 
     public void PlayGame()
     {
-        SceneManager.LoadScene("PlayScene");
+        SceneManager.LoadScene("LobbyListScene");
     }
 }
