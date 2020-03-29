@@ -8,7 +8,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-namespace ConsoleApp1
+namespace Logger
 {
     public  sealed class EmailLogin
     {
@@ -49,23 +49,23 @@ namespace ConsoleApp1
                 }
             }
         }
-        public static async Task CreateNewAccountAsync(String email, String pass)
+        public async Task CreateNewAccountAsync(String email, String pass)
         {
-            var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyDITPuS64TxugEpwPLKU773Q1n-yy58-6k"));
-            await authProvider.CreateUserWithEmailAndPasswordAsync(email, pass);
+            var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyBBVQYk-GFc4InkQub-Z-stYing-81UUQc"));
+            await authProvider.CreateUserWithEmailAndPasswordAsync(email, pass,"tavi", true);
             if (afterCreatingAcc != null)
                 afterCreatingAcc();
         }
 
-        public static async Task SignInWithEmailAsync(String email, String pass)
+        public async Task SignInWithEmailAsync(String email, String pass)
         {
-            var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyDITPuS64TxugEpwPLKU773Q1n-yy58-6k"));
+            var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyBBVQYk-GFc4InkQub-Z-stYing-81UUQc"));
             await authProvider.SignInWithEmailAndPasswordAsync(email, pass); 
             if ( afterLogin != null)
                 afterLogin();
         }
 
-        public static async Task EmailResetPassAsync(String email)
+        public async Task EmailResetPassAsync(String email)
         {
             var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyDITPuS64TxugEpwPLKU773Q1n-yy58-6k"));
             await authProvider.SendPasswordResetEmailAsync(email);

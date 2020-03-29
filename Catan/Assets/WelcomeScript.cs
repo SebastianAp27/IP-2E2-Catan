@@ -1,7 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using Logger;
 public class WelcomeScript : MonoBehaviour
 {
     private string email;
@@ -14,9 +13,9 @@ public class WelcomeScript : MonoBehaviour
     }
 
 
-    public void GoToMenu()
+    public async void GoToMenu()
     {
-        
+        await EmailLogin.Instance.CreateNewAccountAsync("octavian_milea@outlook.com", "tavitavi");
         //if (!string.IsNullOrEmpty(user) && !string.IsNullOrEmpty(pass)) //si aici trebuie validate username-ul si parola
         SceneManager.LoadScene("MainMenu");
     }
