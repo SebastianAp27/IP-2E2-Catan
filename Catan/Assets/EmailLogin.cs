@@ -52,7 +52,7 @@ namespace Logger
         public async Task CreateNewAccountAsync(String email, String pass)
         {
             var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyBBVQYk-GFc4InkQub-Z-stYing-81UUQc"));
-            await authProvider.CreateUserWithEmailAndPasswordAsync(email, pass,"tavi", true);
+            await authProvider.CreateUserWithEmailAndPasswordAsync(email, pass,"Irina", true);
             if (afterCreatingAcc != null)
                 afterCreatingAcc();
         }

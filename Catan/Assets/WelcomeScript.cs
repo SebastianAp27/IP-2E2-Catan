@@ -15,7 +15,6 @@ public class WelcomeScript : MonoBehaviour
 
     public async void GoToMenu()
     {
-        await EmailLogin.Instance.CreateNewAccountAsync("octavian_milea@outlook.com", "tavitavi");
         //if (!string.IsNullOrEmpty(user) && !string.IsNullOrEmpty(pass)) //si aici trebuie validate username-ul si parola
         SceneManager.LoadScene("MainMenu");
     }
