@@ -97,19 +97,19 @@
      <None Include="Assets\Packages\System.Reactive.4.0.0\lib\netstandard2.0\System.Reactive.xml" />
      <None Include="Assets\Packages\System.Text.Encoding.4.3.0\ThirdPartyNotices.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -313,40 +313,40 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Canvas">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Gameroom">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
  </Reference>
  <Reference Include="FacebookNamedPipeClient">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Auth">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/FirebaseAuthentication.net.3.4.0/lib/netstandard1.1/Firebase.Auth.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/FirebaseAuthentication.net.3.4.0/lib/netstandard1.1/Firebase.Auth.dll</HintPath>
  </Reference>
  <Reference Include="Firebase">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/FirebaseDatabase.net.4.0.4/lib/netstandard2.0/Firebase.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/FirebaseDatabase.net.4.0.4/lib/netstandard2.0/Firebase.dll</HintPath>
  </Reference>
  <Reference Include="LiteDB">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/LiteDB.4.1.4/lib/netstandard2.0/LiteDB.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/LiteDB.4.1.4/lib/netstandard2.0/LiteDB.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/Newtonsoft.Json.11.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/Newtonsoft.Json.11.0.2/lib/netstandard2.0/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="System.Reactive">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/System.Reactive.4.0.0/lib/netstandard2.0/System.Reactive.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/System.Reactive.4.0.0/lib/netstandard2.0/System.Reactive.dll</HintPath>
  </Reference>
  <Reference Include="System.Reflection.TypeExtensions">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Assets/Packages/System.Reflection.TypeExtensions.4.3.0/lib/netstandard1.5/System.Reflection.TypeExtensions.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Assets/Packages/System.Reflection.TypeExtensions.4.3.0/lib/netstandard1.5/System.Reflection.TypeExtensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>C:/Users/Irina/Desktop/Catan Frontend Module/IP-2E2-Catan/Catan/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Wircea/Documents/GitHub/IP-2E2-Catan/Catan/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.18f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
